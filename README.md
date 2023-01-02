@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=syso069&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syso069&layout=compact&langs_count=168&theme=merko"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syso069&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syso069&layout=compact&langs_count=168&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,4 +25,4 @@
   <a href="https://www.linkedin.com/in/siso-matheus-060193193/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/syso069/syso069/blob/output/.github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/syso069/syso069/blob/.github-contribution-grid-snake.svg)
