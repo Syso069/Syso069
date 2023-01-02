@@ -5,8 +5,8 @@
 - 😄 Pronouns: ele/dele
 
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=syso069&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syso069&layout=compact&langs_count=168&theme=merko"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=syso069&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="175"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syso069&layout=compact&langs_count=168&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
