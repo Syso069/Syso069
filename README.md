@@ -1,7 +1,7 @@
 ## Oi! Eu sou o Siso Matheus. CodeNome: syso69
 
 - 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 20 anos, sou formando em Analise e Desenvolvimento de Sistemas, possuo certificado da Adobe em Design Gráfico, Web Design e Ilustrador.
-E no momento busco minha primeira vaga de Front-end.
+E no momento busco minha primeira vaga como desenvolvedor.
 - 🌱 Estudando HTML | CSS | JS | ANGULAR
 - 😄 Pronouns: ele/dele
 
