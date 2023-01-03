@@ -1,13 +1,18 @@
-### Oi! Eu sou o Siso Matheus
+## Oi! Eu sou o Siso Matheus. CodeNome: syso69
 
-- 🔭 Atualmente estou em busca do meu primeiro emprego em Front-end
+- 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 20 anos, sou formando em Analise e Desenvolvimento de Sistemas, possuo certificado da Adobe em Design Gráfico, Web Design e Ilustrador.
+E no momento busco minha primeira vaga de Front-end.
 - 🌱 Estudando HTML | CSS | JS | ANGULAR
 - 😄 Pronouns: ele/dele
+
+## Stats
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=syso069&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=syso069&layout=compact&langs_count=168&theme=merko"/>
 </div>
+
+## Linguagens 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Siso-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
@@ -17,7 +22,7 @@
   <img height="100" align="right" alt="Siso-Ico" src="https://user-images.githubusercontent.com/94554205/210275579-fa5257bd-3d2f-4c03-ba84-a9a48fc3895c.PNG">
 </div>
 
-##
+## Minha redes sociais
 
 <div><br>
   <a href="https://www.instagram.com/syso69/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
