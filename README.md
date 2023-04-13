@@ -15,10 +15,10 @@ E no momento busco minha primeira vaga como desenvolvedor.
 ## Linguagens 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Siso-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Siso-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Siso-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Siso-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Siso-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Siso-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Siso-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Siso-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img height="100" align="right" alt="Siso-Ico" src="https://user-images.githubusercontent.com/94554205/210275579-fa5257bd-3d2f-4c03-ba84-a9a48fc3895c.PNG">
 </div>
 
