@@ -2,7 +2,7 @@
 
 - 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 20 anos, sou formando em Analise e Desenvolvimento de Sistemas, possuo certificado da Adobe em Design Gráfico, Web Design e Ilustrador.
 E no momento busco minha primeira vaga como desenvolvedor.
-- 🌱 Estudando HTML | CSS | JS | TS | ANGULAR
+- 🌱 Estudando HTML | CSS | JS | NODE JS | TS |
 - 😄 Pronouns: ele/dele
 
 ## Stats
@@ -19,7 +19,6 @@ E no momento busco minha primeira vaga como desenvolvedor.
   <img align="center" alt="Siso-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Siso-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Siso-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img height="100" align="right" alt="Siso-Ico" src="https://user-images.githubusercontent.com/94554205/210275579-fa5257bd-3d2f-4c03-ba84-a9a48fc3895c.PNG">
 </div>
 
 ## Minha redes sociais
