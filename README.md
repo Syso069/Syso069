@@ -1,6 +1,6 @@
 ## Oi! Eu sou o Siso Matheus. 
 
-- 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 20 anos, sou formando em Analise e Desenvolvimento de Sistemas, possuo certificado da Adobe em Design Gráfico, Web Design e Ilustrador.
+- 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 21 anos, sou formando em Analise e Desenvolvimento de Sistemas, possuo certificado da Adobe em Design Gráfico, Web Design e Ilustrador.
 E no momento busco minha primeira vaga como desenvolvedor.
 - 🌱 Estudando HTML | CSS | JS | NODE JS | TS |
 - 😄 Pronouns: ele/dele
