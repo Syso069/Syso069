@@ -1,8 +1,8 @@
 ## Oi! Eu sou o Siso Matheus. 
 
 - 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 22 anos, sou formando em Analise e Desenvolvimento de Sistemas e atualmente estou fazendo pós graduação em Engenharia de Software.
-- No momento busco minha primeira vaga como desenvolvedor.
-- 🌱 Estudando HTML | CSS | JS | JAVA | LINUX 
+- No momento busco vaga como desenvolvedor.
+- 🌱 Estudando JAVA | DOCKER | HTML | CSS | JS | LINUX 
 
 ## Stats
 
