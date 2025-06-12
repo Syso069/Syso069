@@ -14,6 +14,10 @@
 ## Linguagens 
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Siso-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Siso-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Siso-Hibernate" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg">
+  <img align="center" alt="Siso-MariaDb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg">
   <img align="center" alt="Siso-Html5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="Siso-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Siso-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
