@@ -18,7 +18,6 @@
   <img align="center" alt="Siso-Css3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Siso-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Siso-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img height="100" align="right" alt="Siso-Ico" src="https://user-images.githubusercontent.com/94554205/210275579-fa5257bd-3d2f-4c03-ba84-a9a48fc3895c.PNG">
 </div>
 
 ## Minha redes sociais
