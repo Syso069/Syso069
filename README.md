@@ -2,7 +2,7 @@
 
 - 🔭 Me chamo Siso Matheus Freitas de Lima, tenho 22 anos, sou formando em Analise e Desenvolvimento de Sistemas e sou pós graduado em Engenharia de Software.
 
-- 🌱 Conhecimento em JAVA | SPRING BOOT | ANGULAR | DOCKER | JASPER | MARIA DB | JS 
+- 🌱 Conhecimento em JAVA | SPRING BOOT | ANGULAR | JASPER | MARIA DB | JS 
 
 ## Stats
 
